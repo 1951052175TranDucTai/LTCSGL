@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Microsoft SQL server\\BaiTapLon\\BaiTapLon.csproj": {}
+    "E:\\BaiTapLon\\BaiTapLon\\BaiTapLon\\BaiTapLon.csproj": {}
   },
   "projects": {
-    "E:\\Microsoft SQL server\\BaiTapLon\\BaiTapLon.csproj": {
+    "E:\\BaiTapLon\\BaiTapLon\\BaiTapLon\\BaiTapLon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Microsoft SQL server\\BaiTapLon\\BaiTapLon.csproj",
+        "projectUniqueName": "E:\\BaiTapLon\\BaiTapLon\\BaiTapLon\\BaiTapLon.csproj",
         "projectName": "BaiTapLon",
-        "projectPath": "E:\\Microsoft SQL server\\BaiTapLon\\BaiTapLon.csproj",
+        "projectPath": "E:\\BaiTapLon\\BaiTapLon\\BaiTapLon\\BaiTapLon.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "E:\\Microsoft SQL server\\BaiTapLon\\obj\\",
+        "outputPath": "E:\\BaiTapLon\\BaiTapLon\\BaiTapLon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,41 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BaiTapLon
 build_property.RootNamespace = BaiTapLon
-build_property.ProjectDir = E:\Microsoft SQL server\BaiTapLon\
+build_property.ProjectDir = E:\BaiTapLon\BaiTapLon\BaiTapLon\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Microsoft SQL server\BaiTapLon
+build_property.MSBuildProjectDirectory = E:\BaiTapLon\BaiTapLon\BaiTapLon
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Microsoft SQL server/BaiTapLon/Views/Home/Index.cshtml]
+[E:/BaiTapLon/BaiTapLon/BaiTapLon/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Microsoft SQL server/BaiTapLon/Views/Home/Privacy.cshtml]
+[E:/BaiTapLon/BaiTapLon/BaiTapLon/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Microsoft SQL server/BaiTapLon/Views/Product/ListProduct.cshtml]
+[E:/BaiTapLon/BaiTapLon/BaiTapLon/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BaiTapLon/BaiTapLon/BaiTapLon/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BaiTapLon/BaiTapLon/BaiTapLon/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BaiTapLon/BaiTapLon/BaiTapLon/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BaiTapLon/BaiTapLon/BaiTapLon/Views/Product/ListProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0UHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Microsoft SQL server/BaiTapLon/Views/Shared/Error.cshtml]
+[E:/BaiTapLon/BaiTapLon/BaiTapLon/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Microsoft SQL server/BaiTapLon/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/BaiTapLon/BaiTapLon/BaiTapLon/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Microsoft SQL server/BaiTapLon/Views/_ViewImports.cshtml]
+[E:/BaiTapLon/BaiTapLon/BaiTapLon/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Microsoft SQL server/BaiTapLon/Views/_ViewStart.cshtml]
+[E:/BaiTapLon/BaiTapLon/BaiTapLon/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Microsoft SQL server/BaiTapLon/Views/Shared/_Layout.cshtml]
+[E:/BaiTapLon/BaiTapLon/BaiTapLon/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pts7t73f2w

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HphFb6gF7eL5YIUU8buEJN3go5+wCeB3CVzUYbWBF7yCo6MNCpbAwy9fHMEWKmW9XW/9DMuly/XtodzTm5AiBg==",
+  "dgSpecHash": "1b4v1BvrgM9AWosjtdIHfXm45KafoN25zSei03xiYi9V4je6mf8utww5sASQPLjkAor0Gni6wTRRwirbHRVStQ==",
   "success": true,
-  "projectFilePath": "E:\\Microsoft SQL server\\BaiTapLon\\BaiTapLon.csproj",
+  "projectFilePath": "E:\\BaiTapLon\\BaiTapLon\\BaiTapLon\\BaiTapLon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
